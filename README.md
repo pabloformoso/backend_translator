@@ -1,6 +1,8 @@
 # BackendTranslator
 
+[![Gem Version](https://badge.fury.io/rb/backend_translator.png)](http://badge.fury.io/rb/backend_translator)
 [![Build Status](https://travis-ci.org/jesus-sayar/backend_translator.png?branch=master)](https://travis-ci.org/jesus-sayar/backend_translator)
+[![Code Climate](https://codeclimate.com/github/jesus-sayar/backend_translator.png)](https://codeclimate.com/github/jesus-sayar/backend_translator)
 
 Provides a web interface for manage Rails I18n texts, storing translations in a key-value store.
 
