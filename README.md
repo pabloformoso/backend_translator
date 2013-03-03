@@ -1,5 +1,7 @@
 # BackendTranslator
 
+[![Build Status](https://travis-ci.org/jesus-sayar/backend_translator.png?branch=master)](https://travis-ci.org/jesus-sayar/backend_translator)
+
 Provides a web interface for manage Rails I18n texts, storing translations in a key-value store.
 
 ## Installation

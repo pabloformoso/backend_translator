@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.summary     = "Provides a web interface for manage Rails I18n texts, storing translations in a key-value store."
   s.description = "Provides a web interface for manage Rails I18n texts, storing translations in a key-value store."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_runtime_dependency("rails", "~> 3.2.12")
